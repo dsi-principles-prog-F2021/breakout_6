@@ -5,7 +5,3 @@ This is Yingxiang Ma (Andy)
 This is Hongyu Dai
 
 This is Yiwen Chen (Alvin)
-
-TEST
-
-TEST2222
